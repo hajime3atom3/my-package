@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle my-package",
+        "command": "my-package-hajime3atom3:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "my-package",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "my-package-hajime3atom3:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
