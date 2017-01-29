@@ -1,15 +1,13 @@
 {
   "name": "my-package-hajime3atom3",
   "main": "./lib/my-package",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A short description of your package",
-  "keywords": [
-  ],
+  "keywords": [],
   "repository": "https://github.com/hajime3atom3/my-package",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
